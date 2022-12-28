@@ -1,3 +1,3 @@
 # Bicycle-rental-forecast
-따른이 수요량 예측
+따릉이 수요량 예측
 
